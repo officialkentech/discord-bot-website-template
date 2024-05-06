@@ -10,24 +10,23 @@ const About = () => {
         <div className="about-container">
           <div className="about-card">
             <div>
-              <h4 className="h-color">⚡ Commands</h4>
+              <h4 className="h-color">⚡ Speed</h4>
               <p className="p-color">
-                We have more than 200 commands support in this bot.
+                Bot Generates Fast Responses!
               </p>
               <hr />
             </div>
             <div>
-              <h4 className="h-color">✉️ 24/7 Support</h4>
+              <h4 className="h-color">🟢 99.9% Online</h4>
               <p className="p-color">
-                The biggest support community server for the bot available for
-                you anytime.
+                We Try To Keep Our Bot Online 24/7 With The Help Of Our Amazing Supporters!
               </p>
               <hr />
             </div>
             <div>
-              <h4 className="h-color">✏️ Customization</h4>
+              <h4 className="h-color">💵 Price</h4>
               <p className="p-color">
-                Fully customizable discord bot completely FREE!
+                #1 Discord AI Generation Bot For It's Price!
               </p>
               <hr />
             </div>
@@ -41,15 +40,15 @@ const About = () => {
 
         <section className="about-stats">
           <div className="about-stats-card">
-            <h4 className="h-color">17k+</h4>
+            <h4 className="h-color">20+</h4>
             <p className="p-color">Total Servers</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">94k+</h4>
+            <h4 className="h-color">50+</h4>
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">375k+</h4>
+            <h4 className="h-color">500+</h4>
             <p className="p-color">Total Commands Ran</p>
           </div>
         </section>
