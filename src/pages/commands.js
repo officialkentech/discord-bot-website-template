@@ -72,6 +72,7 @@ export default function Commands() {
                </ul>
           <input type="radio" name="accordion" id="acc-close" />
         </nav>
+      </div>
       </section>
       <Footer />
     </motion.div>
