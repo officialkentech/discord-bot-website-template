@@ -31,7 +31,7 @@ const Navbar = () => {
                 href="https://auroraai.com/404"
                 target="_blank"
               >
-                /source-code
+                /404
               </Link>
             </li>
           </ul>
