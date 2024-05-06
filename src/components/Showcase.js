@@ -12,7 +12,7 @@ const Showcase = () => {
       <main className="showcase">
         <h1 className="showcase-header h-color">BOT</h1>
         <h2 className="showcase-header-text h-color">
-          The only discord bot you need!
+          The only discord ai generation bot you need!
         </h2>
         <p className="showcase-para p-color">
           One of the awesome discord bot with tons of commands that will fill
@@ -22,13 +22,13 @@ const Showcase = () => {
         <span className="p-color">Bot is online!</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.com/oauth2/authorize?client_id=1236620717299077250&permissions=8&scope=applications.commands+bot">
               Invite now!
             </Link>
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.gg/JV3hmehDww">
               Join server!
             </Link>
           </button>
