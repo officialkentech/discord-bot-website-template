@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bot.gg
+                  auroraai.com
                 </Link>
                 <span
                   style={{
@@ -44,7 +44,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link className="p-color" href="#">
-                  /support
+                  /terms-of-service
                 </Link>
               </li>
               <li>
@@ -59,26 +59,26 @@ const Footer = () => {
           <hr />
           <div>
             <p className="p-color">
-              Created with ❤️ by{" "}
+              Bot Created with ❤️ by{" "}
               <Link
-                href="https://github.com/preetsuthar17"
+                href="https://github.com/officialkentech"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Kennet678
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="#">
-              /support
+              /subscription
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
+              href="https://auroraai.com/subscribe"
             >
-              /source-code
+              /server
             </Link>
             <Link className="p-color no-decoration" href="#">
               /privacy
