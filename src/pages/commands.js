@@ -14,10 +14,10 @@ export default function Commands() {
       animate={{ opacity: 1 }}
     >
       <Head>
-        <title>Commands | BOT</title>
+        <title>Commands | Aurora</title>
         <meta
           name="description"
-          content="Commands page | Minimal and awesome discord bot website created with ❤️ using NextJS"
+          content="Commands page | Aurora"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -69,6 +69,7 @@ export default function Commands() {
                   <kbd>/ping</kbd> -{" "}
                   <span className="p-color">Bot Ping/Latency</span>
                 </li>
+               </ul>
           <input type="radio" name="accordion" id="acc-close" />
         </nav>
       </section>
